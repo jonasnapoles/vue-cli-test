@@ -20,7 +20,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
 ```
+## Credits
+
+[Jonas Oliveira](https://github.com/jonasnapoles) 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
