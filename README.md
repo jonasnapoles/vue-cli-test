@@ -1,4 +1,4 @@
-# Vue Cli Project
+# Vue Cli 3 Project
 
 <p align="center"><a href="https://cli.vuejs.org/favicon.png" target="_blank" rel="noopener noreferrer"><img width="100" src="https://cli.vuejs.org/favicon.png" alt="Vue logo"></a></p>
 
